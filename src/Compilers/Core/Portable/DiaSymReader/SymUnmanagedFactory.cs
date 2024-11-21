@@ -20,6 +20,7 @@ namespace Microsoft.DiaSymReader
         private const string DiaSymReaderModuleName32 = "Microsoft.DiaSymReader.Native.x86.dll";
         private const string DiaSymReaderModuleNameAmd64 = "Microsoft.DiaSymReader.Native.amd64.dll";
         private const string DiaSymReaderModuleNameArm64 = "Microsoft.DiaSymReader.Native.arm64.dll";
+        private const string DiaSymReaderModuleNameLoongArch64 = "Microsoft.DiaSymReader.Native.loongarch64.dll";
 
         private const string CreateSymReaderFactoryName = "CreateSymReader";
         private const string CreateSymWriterFactoryName = "CreateSymWriter";
